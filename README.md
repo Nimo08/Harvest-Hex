@@ -18,14 +18,12 @@ Harvest Hex is an simple 2D runner game developed using Pygame, where players co
 
 # Getting Started
 To play Harvest Hex, follow these steps:
-## Clone the Repository:
-- git clone https://github.com/Nimo08/Harvest-Hex.git
-- cd harvest-hex
-## Install Dependencies:
-- pip3 install pygame
-- pip3 install pyinstaller
+- Click on the "Code" button, and a dropdown menu will appear.
+- Select the option "Download ZIP."
+- This action will prompt your browser to download a compressed ZIP archive
+- of the entire repository.
 ## Run the Game:
-python3 launcher.py
+- Double click the launcher file to open the game
 
 # Game Controls
 Space Bar: Jump over obstacles.
