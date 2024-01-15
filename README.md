@@ -22,8 +22,12 @@ To play Harvest Hex, follow these steps:
 - Select the option "Download ZIP."
 - This action will prompt your browser to download a compressed ZIP archive
 - of the entire repository.
+## Install Dependencies:
+- pip3 install pygame
+- pip3 install pyinstaller
 ## Run the Game:
 - Double click the launcher file to open the game
+
 
 # Game Controls
 Space Bar: Jump over obstacles.
